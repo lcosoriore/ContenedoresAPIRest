@@ -1,0 +1,2 @@
+C:\ContenedoresAPI\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+C:\ContenedoresAPI\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
