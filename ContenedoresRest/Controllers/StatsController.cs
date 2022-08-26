@@ -8,6 +8,10 @@
     [Route("api/[controller]")]
     public class StatsController : ControllerBase
     {
+        /// <summary>
+        /// Metodo para obtener las estadisticas de los procesos de despacho
+        /// </summary>
+        /// <returns>Se retorna el listado con las estadisticas de los despachos procesados</returns>
         [HttpGet("stats")]
 
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
