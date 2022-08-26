@@ -3,25 +3,24 @@
     using Containers;
     using Containers.Models;
     using Microsoft.AspNetCore.Mvc;
+    using System.Net;
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class StatsController : ControllerBase
     {
-        [HttpPost(Name = "stats")]
-        public List<StatsModel> Get()
-        {
-            ContainersManager objContainer = new ContainersManager();
-            try
-            {
-                List < StatsModel > stats = new List<StatsModel>();
-                stats = objContainer.GetStats();
-                return stats;
-            }
-            catch (Exception ex)
-            {
-                throw new Exception("Errores en la peticion: " + ex.Message);
-            }
+        [HttpGet("stats")]
 
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(string))]
+        [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(string))]
+        public async Task<IActionResult> Get()
+        {
+            var result =  StatsManagerl.GetStats();
+            if (result!=null)
+                return new OkObjectResult(result);
+            else
+            {
+                return new NotFoundResult();
+            }
         }
     }
 }

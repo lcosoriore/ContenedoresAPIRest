@@ -3,45 +3,40 @@
     using Containers.Models;
     public class ContainersManager
     {
-        private double containers_dispatched = 0;
-        private double containers_not_dispatched = 0;
-        private double budget_used = 0;
-        public List<string> selectContainers(double budget, List<ContainersModel> lstContainers)
+        public async Task<List<string>> selectContainers(double budget, List<ContainersModel> lstContainers)
         {
-            double sumatoria = 0;
+            double budgetFlag = budget;
 
-            List<string> containers = new List<string>();
-            foreach (var item in lstContainers)
+            var dispatchedContainers = new List<ContainersModel>();
+            var notDispatchedContainers = new List<ContainersModel>();
+
+            lstContainers.ForEach(item =>
             {
-                if (Math.Round(sumatoria + (item.transportCost), 2) <= budget)
+                if (budgetFlag - item.transportCost > 0)
                 {
-                    containers_dispatched = Math.Round(containers_dispatched + item.containerPrice,2);
-                    sumatoria = Math.Round(sumatoria + (item.transportCost),2);
-                    budget_used = sumatoria;
-                    containers.Add(item.name);
+                    dispatchedContainers.Add(item);
+                    budgetFlag -= item.transportCost;
                 }
                 else
                 {
-                    containers_not_dispatched= Math.Round(containers_not_dispatched + item.containerPrice,2);
+                    notDispatchedContainers.Add(item);
                 }
-            }
-            StatsModel statsModel = new StatsModel();
-            statsModel.containers_dispatched= containers_dispatched;
-            statsModel.containers_not_dispatched= containers_not_dispatched;
-            statsModel.budget_used = budget_used;
+            });
+
+            var statsModel = new StatsModel
+            {
+                containers_dispatched = dispatchedContainers.Sum(x => x.containerPrice),
+                containers_not_dispatched = notDispatchedContainers.Sum(x => x.containerPrice),
+                budget_used = dispatchedContainers.Sum(x => x.transportCost)
+            };
             if (statsModel != null)
             {
                 DAL.ContainersDataController.Instance.CreateStatistics(statsModel);
             }
-            return containers;
+             return dispatchedContainers.Select(x => x.name).ToList();
         }
 
-        public List<StatsModel> GetStats()
-        {
-            List<StatsModel> lstStats = new List<StatsModel>();
-            lstStats=DAL.ContainersDataController.Instance.GetStats();
-            return lstStats;
-        }
+       
 
     }
 }

@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root CoveredStatements="135" TotalStatements="135" CoveragePercent="100" ReportType="DetailedXml" DotCoverVersion="2022.2.2">
+  <FileIndices>
+    <File Index="6" Name="C:\ContenedoresAPI\xUnit.ContenedoresRest\obj\Debug\net6.0\xUnit.ContenedoresRest.AssemblyInfo.cs" ChecksumAlgorithm="SHA256" Checksum="3B8F852FB8FFEC671DE901223CDDB1FBE0785EF11AFCE4D77316FCC430BEE778" />
+    <File Index="5" Name="C:\ContenedoresAPI\xUnit.ContenedoresRest\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" ChecksumAlgorithm="SHA256" Checksum="9203CF07D36B1AA135DA4A5F86286F34432156CBAF6518C2909849EB7D577381" />
+    <File Index="4" Name="C:\ContenedoresAPI\xUnit.ContenedoresRest\obj\Debug\net6.0\xUnit.ContenedoresRest.GlobalUsings.g.cs" ChecksumAlgorithm="SHA256" Checksum="F3F134E9E825E3E7268090F58B1AF2BDA2DE513F61A09C56F48B9B8D08612ABC" />
+    <File Index="3" Name="C:\Users\Luisa_Osorio\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" ChecksumAlgorithm="SHA256" Checksum="D66F12F9433816A8C7DC1B2ACB9E1010F5418F5EEB51E80F1DF57AA1DCAB8D8A" />
+    <File Index="2" Name="C:\ContenedoresAPI\xUnit.ContenedoresRest\Usings.cs" ChecksumAlgorithm="SHA256" Checksum="E8DE9B91579BA661CBFEBD3912328C2DC917D2A519CC565B717446C7F39E6D33" />
+    <File Index="1" Name="C:\ContenedoresAPI\xUnit.ContenedoresRest\ContainersTest.cs" ChecksumAlgorithm="SHA256" Checksum="B3E371B268974AA53305B34AE5575782A74AC1031380ADDDA86348259FAC9A74" />
+    <File Index="14" Name="C:\ContenedoresAPI\ContenedoresRest\obj\Debug\net6.0\ContenedoresRest.MvcApplicationPartsAssemblyInfo.cs" ChecksumAlgorithm="SHA256" Checksum="7DE5F9740FBD2247924D8AF0EF05BE492B58F0AE7441A77B69F2A7A31B55EF46" />
+    <File Index="13" Name="C:\ContenedoresAPI\ContenedoresRest\obj\Debug\net6.0\ContenedoresRest.AssemblyInfo.cs" ChecksumAlgorithm="SHA256" Checksum="F493AF9ADD46A7FDB1BD8A8FFFA5C4C4C302E48A2032E077301604CC5F56E6D3" />
+    <File Index="12" Name="C:\ContenedoresAPI\ContenedoresRest\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" ChecksumAlgorithm="SHA256" Checksum="9203CF07D36B1AA135DA4A5F86286F34432156CBAF6518C2909849EB7D577381" />
+    <File Index="11" Name="C:\ContenedoresAPI\ContenedoresRest\obj\Debug\net6.0\ContenedoresRest.GlobalUsings.g.cs" ChecksumAlgorithm="SHA256" Checksum="1BC1691037C29525F4B104FE05A77BBEF040A27CCE2AB784ED28226F8C8B5E35" />
+    <File Index="10" Name="C:\ContenedoresAPI\ContenedoresRest\Program.cs" ChecksumAlgorithm="SHA256" Checksum="60D3F17B6112D7949ED1B9C5E85E74B0CA7415A791A66F73A3366B558011D12E" />
+    <File Index="9" Name="C:\ContenedoresAPI\ContenedoresRest\Models\ContainersModel.cs" ChecksumAlgorithm="SHA256" Checksum="066C2DC5A703CC93308B2AF53BCAD81342936F80DA9F20596022943451F51AB3" />
+    <File Index="8" Name="C:\ContenedoresAPI\ContenedoresRest\Controllers\StatsController.cs" ChecksumAlgorithm="SHA256" Checksum="02EE27992340203514773AF9FAF3650977B19DC8A3AA91125AFAF824EBFF760C" />
+    <File Index="7" Name="C:\ContenedoresAPI\ContenedoresRest\Controllers\ContainersController.cs" ChecksumAlgorithm="SHA256" Checksum="0FF134E18A674262F7CB3AA0CDA6509447CD78BF30B7DF01BF15D9C13D7D2723" />
+    <File Index="15" Name="C:\ContenedoresAPI\ADO.Rest\ADOFactory.cs" ChecksumAlgorithm="SHA256" Checksum="47D29D5F93EA7C9C0B550B5C3932B338E78F64B004FAEE0D83A8854F65F8D28F" />
+    <File Index="16" Name="C:\ContenedoresAPI\ADO.Rest\Interfaces\IADO.cs" ChecksumAlgorithm="SHA256" Checksum="8446A31B5AE198252F825BE9CCF1D9DE7E051FC6BBC073167361D63A9EBF4AC5" />
+    <File Index="17" Name="C:\ContenedoresAPI\ADO.Rest\Models\ADOModelRequest.cs" ChecksumAlgorithm="SHA256" Checksum="08A0B561FDE96AE759170BD819B937E4F6DE9295992EA54ECA411BD3BC6CF941" />
+    <File Index="18" Name="C:\ContenedoresAPI\ADO.Rest\Models\ADOModelResponse.cs" ChecksumAlgorithm="SHA256" Checksum="D9FDF2FD5079B7CC8D124905B6562BD6EA3DD506DD9504011F936BFFC357E479" />
+    <File Index="19" Name="C:\ContenedoresAPI\ADO.Rest\Models\Enumerators.cs" ChecksumAlgorithm="SHA256" Checksum="1E0F7B5AD5654DD8B27D75A7C09D02FD0C487A276BF51B3824A5A1233C90F378" />
+    <File Index="20" Name="C:\ContenedoresAPI\ADO.Rest\MYSQL\MySqlImplement.cs" ChecksumAlgorithm="SHA256" Checksum="BF0E8D397525D791A3C15CFC0685E5C7F50CB969C798A1C4DE3503FBE99DFD20" />
+    <File Index="21" Name="C:\ContenedoresAPI\ADO.Rest\obj\Debug\net6.0\ADO.Rest.GlobalUsings.g.cs" ChecksumAlgorithm="SHA256" Checksum="F3F134E9E825E3E7268090F58B1AF2BDA2DE513F61A09C56F48B9B8D08612ABC" />
+    <File Index="22" Name="C:\ContenedoresAPI\ADO.Rest\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" ChecksumAlgorithm="SHA256" Checksum="9203CF07D36B1AA135DA4A5F86286F34432156CBAF6518C2909849EB7D577381" />
+    <File Index="23" Name="C:\ContenedoresAPI\ADO.Rest\obj\Debug\net6.0\ADO.Rest.AssemblyInfo.cs" ChecksumAlgorithm="SHA256" Checksum="C2BAED8F8423503C06A084B666F89F92A6C0FDA0E3E0BAC39739F13D4DF7F8FE" />
+    <File Index="24" Name="C:\ContenedoresAPI\Containers\ContainersManager.cs" ChecksumAlgorithm="SHA256" Checksum="DA0E7198EF124BFC868A130EAB551158FFE7862AB19ED22357EC60EA407D1DCF" />
+    <File Index="25" Name="C:\ContenedoresAPI\Containers\DAL\ContainersDataController.cs" ChecksumAlgorithm="SHA256" Checksum="6DDA10E6D77C81E4DC8A6E93236BC00508F7BBE41576021456E3ADCA52F1C88C" />
+    <File Index="26" Name="C:\ContenedoresAPI\Containers\DAL\ContainersDataFactory.cs" ChecksumAlgorithm="SHA256" Checksum="83CC6F9407EBDD39268AA66083F5AE20DB9AB2901C20418A945C61C44C2EAE4B" />
+    <File Index="27" Name="C:\ContenedoresAPI\Containers\DAL\Dao\Containers_MysqlDao.cs" ChecksumAlgorithm="SHA256" Checksum="4B34EB4976077BC6754ACB5F378341ADA907621D73A1A673CFCE1264010A5979" />
+    <File Index="28" Name="C:\ContenedoresAPI\Containers\Interfaces\IContainersData.cs" ChecksumAlgorithm="SHA256" Checksum="EFD61A36CA52F373ED09A7B5F6589E3973715D45B4A279AB3084302CDDE56C94" />
+    <File Index="29" Name="C:\ContenedoresAPI\Containers\Models\Constants.cs" ChecksumAlgorithm="SHA256" Checksum="CE80D157B21B3E0D9A79140E5E2281E21A23A7B3D995FBB0257B9B539ACC9667" />
+    <File Index="30" Name="C:\ContenedoresAPI\Containers\Models\ContainersModel.cs" ChecksumAlgorithm="SHA256" Checksum="0D28898CB0B686C76A5C733D152F71A24541E71710054C595161165039F7D90E" />
+    <File Index="31" Name="C:\ContenedoresAPI\Containers\Models\StatsModel.cs" ChecksumAlgorithm="SHA256" Checksum="7A21341991B92B9E1880392A26D39DAFF291828CA1EF264DC7531D72EE8016A6" />
+    <File Index="32" Name="C:\ContenedoresAPI\Containers\obj\Debug\net6.0\Containers.GlobalUsings.g.cs" ChecksumAlgorithm="SHA256" Checksum="F3F134E9E825E3E7268090F58B1AF2BDA2DE513F61A09C56F48B9B8D08612ABC" />
+    <File Index="33" Name="C:\ContenedoresAPI\Containers\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" ChecksumAlgorithm="SHA256" Checksum="9203CF07D36B1AA135DA4A5F86286F34432156CBAF6518C2909849EB7D577381" />
+    <File Index="34" Name="C:\ContenedoresAPI\Containers\obj\Debug\net6.0\Containers.AssemblyInfo.cs" ChecksumAlgorithm="SHA256" Checksum="6687D077A76981ED4349830A439DB95CA45E3C0AB9087A5141F3439F9E80E12D" />
+  </FileIndices>
+  <Assembly Name="Containers" CoveredStatements="95" TotalStatements="95" CoveragePercent="100">
+    <Namespace Name="Containers" CoveredStatements="37" TotalStatements="37" CoveragePercent="100">
+      <Type Name="ContainersManager" CoveredStatements="37" TotalStatements="37" CoveragePercent="100">
+        <Method Name=".ctor():System.Void" CoveredStatements="3" TotalStatements="3" CoveragePercent="100">
+          <Statement FileIndex="24" Line="6" Column="9" EndLine="6" EndColumn="50" Covered="True" />
+          <Statement FileIndex="24" Line="7" Column="9" EndLine="7" EndColumn="54" Covered="True" />
+          <Statement FileIndex="24" Line="8" Column="9" EndLine="8" EndColumn="40" Covered="True" />
+        </Method>
+        <Method Name="GetStats():System.Collections.Generic.List&lt;Containers.Models.StatsModel&gt;" CoveredStatements="5" TotalStatements="5" CoveragePercent="100">
+          <Statement FileIndex="24" Line="40" Column="9" EndLine="40" EndColumn="10" Covered="True" />
+          <Statement FileIndex="24" Line="41" Column="13" EndLine="41" EndColumn="64" Covered="True" />
+          <Statement FileIndex="24" Line="42" Column="13" EndLine="42" EndColumn="71" Covered="True" />
+          <Statement FileIndex="24" Line="43" Column="13" EndLine="43" EndColumn="29" Covered="True" />
+          <Statement FileIndex="24" Line="44" Column="9" EndLine="44" EndColumn="10" Covered="True" />
+        </Method>
+        <Method Name="selectContainers(System.Double,System.Collections.Generic.List&lt;Containers.Models.ContainersModel&gt;):System.Collections.Generic.List&lt;System.String&gt;" CoveredStatements="29" TotalStatements="29" CoveragePercent="100">
+          <Statement FileIndex="24" Line="10" Column="9" EndLine="10" EndColumn="10" Covered="True" />
+          <Statement FileIndex="24" Line="11" Column="13" EndLine="11" EndColumn="34" Covered="True" />
+          <Statement FileIndex="24" Line="13" Column="13" EndLine="13" EndColumn="58" Covered="True" />
+          <Statement FileIndex="24" Line="14" Column="13" EndLine="14" EndColumn="20" Covered="True" />
+          <Statement FileIndex="24" Line="14" Column="34" EndLine="14" EndColumn="47" Covered="True" />
+          <Statement FileIndex="24" Line="14" Column="22" EndLine="14" EndColumn="30" Covered="True" />
+          <Statement FileIndex="24" Line="15" Column="13" EndLine="15" EndColumn="14" Covered="True" />
+          <Statement FileIndex="24" Line="16" Column="17" EndLine="16" EndColumn="79" Covered="True" />
+          <Statement FileIndex="24" Line="17" Column="17" EndLine="17" EndColumn="18" Covered="True" />
+          <Statement FileIndex="24" Line="18" Column="21" EndLine="18" EndColumn="103" Covered="True" />
+          <Statement FileIndex="24" Line="19" Column="21" EndLine="19" EndColumn="80" Covered="True" />
+          <Statement FileIndex="24" Line="20" Column="21" EndLine="20" EndColumn="45" Covered="True" />
+          <Statement FileIndex="24" Line="21" Column="21" EndLine="21" EndColumn="47" Covered="True" />
+          <Statement FileIndex="24" Line="22" Column="17" EndLine="22" EndColumn="18" Covered="True" />
+          <Statement FileIndex="24" Line="24" Column="17" EndLine="24" EndColumn="18" Covered="True" />
+          <Statement FileIndex="24" Line="25" Column="21" EndLine="25" EndColumn="110" Covered="True" />
+          <Statement FileIndex="24" Line="26" Column="17" EndLine="26" EndColumn="18" Covered="True" />
+          <Statement FileIndex="24" Line="27" Column="13" EndLine="27" EndColumn="14" Covered="True" />
+          <Statement FileIndex="24" Line="14" Column="31" EndLine="14" EndColumn="33" Covered="True" />
+          <Statement FileIndex="24" Line="28" Column="13" EndLine="28" EndColumn="54" Covered="True" />
+          <Statement FileIndex="24" Line="29" Column="13" EndLine="29" EndColumn="69" Covered="True" />
+          <Statement FileIndex="24" Line="30" Column="13" EndLine="30" EndColumn="77" Covered="True" />
+          <Statement FileIndex="24" Line="31" Column="13" EndLine="31" EndColumn="50" Covered="True" />
+          <Statement FileIndex="24" Line="32" Column="13" EndLine="32" EndColumn="36" Covered="True" />
+          <Statement FileIndex="24" Line="33" Column="13" EndLine="33" EndColumn="14" Covered="True" />
+          <Statement FileIndex="24" Line="34" Column="17" EndLine="34" EndColumn="84" Covered="True" />
+          <Statement FileIndex="24" Line="35" Column="13" EndLine="35" EndColumn="14" Covered="True" />
+          <Statement FileIndex="24" Line="36" Column="13" EndLine="36" EndColumn="31" Covered="True" />
+          <Statement FileIndex="24" Line="37" Column="9" EndLine="37" EndColumn="10" Covered="True" />
+        </Method>
+      </Type>
+    </Namespace>
+    <Namespace Name="Containers.DAL" CoveredStatements="21" TotalStatements="21" CoveragePercent="100">
+      <Type Name="ContainersDataController" CoveredStatements="16" TotalStatements="16" CoveragePercent="100">
+        <Method Name=".ctor():System.Void" CoveredStatements="4" TotalStatements="4" CoveragePercent="100">
+          <Statement FileIndex="25" Line="22" Column="9" EndLine="22" EndColumn="42" Covered="True" />
+          <Statement FileIndex="25" Line="23" Column="9" EndLine="23" EndColumn="10" Covered="True" />
+          <Statement FileIndex="25" Line="24" Column="13" EndLine="24" EndColumn="76" Covered="True" />
+          <Statement FileIndex="25" Line="25" Column="9" EndLine="25" EndColumn="10" Covered="True" />
+        </Method>
+        <Method Name="CreateStatistics(Containers.Models.StatsModel):System.Void" CoveredStatements="3" TotalStatements="3" CoveragePercent="100">
+          <Statement FileIndex="25" Line="28" Column="9" EndLine="28" EndColumn="10" Covered="True" />
+          <Statement FileIndex="25" Line="29" Column="13" EndLine="29" EndColumn="59" Covered="True" />
+          <Statement FileIndex="25" Line="30" Column="9" EndLine="30" EndColumn="10" Covered="True" />
+        </Method>
+        <Method Name="get_Instance():Containers.Interfaces.IContainersData" CoveredStatements="5" TotalStatements="5" CoveragePercent="100">
+          <Statement FileIndex="25" Line="14" Column="13" EndLine="14" EndColumn="14" Covered="True" />
+          <Statement FileIndex="25" Line="15" Column="17" EndLine="15" EndColumn="39" Covered="True" />
+          <Statement FileIndex="25" Line="16" Column="21" EndLine="16" EndColumn="64" Covered="True" />
+          <Statement FileIndex="25" Line="17" Column="17" EndLine="17" EndColumn="34" Covered="True" />
+          <Statement FileIndex="25" Line="18" Column="13" EndLine="18" EndColumn="14" Covered="True" />
+        </Method>
+        <Method Name="GetStats():System.Collections.Generic.List&lt;Containers.Models.StatsModel&gt;" CoveredStatements="4" TotalStatements="4" CoveragePercent="100">
+          <Statement FileIndex="25" Line="33" Column="9" EndLine="33" EndColumn="10" Covered="True" />
+          <Statement FileIndex="25" Line="34" Column="13" EndLine="34" EndColumn="64" Covered="True" />
+          <Statement FileIndex="25" Line="35" Column="13" EndLine="35" EndColumn="57" Covered="True" />
+          <Statement FileIndex="25" Line="36" Column="9" EndLine="36" EndColumn="10" Covered="True" />
+        </Method>
+      </Type>
+      <Type Name="ContainersDataFactory" CoveredStatements="5" TotalStatements="5" CoveragePercent="100">
+        <Method Name="GetDataInstance(System.Boolean):Containers.Interfaces.IContainersData" CoveredStatements="5" TotalStatements="5" CoveragePercent="100">
+          <Statement FileIndex="26" Line="6" Column="9" EndLine="6" EndColumn="10" Covered="True" />
+          <Statement FileIndex="26" Line="8" Column="13" EndLine="8" EndColumn="99" Covered="True" />
+          <Statement FileIndex="26" Line="9" Column="13" EndLine="9" EndColumn="118" Covered="True" />
+          <Statement FileIndex="26" Line="10" Column="13" EndLine="10" EndColumn="29" Covered="True" />
+          <Statement FileIndex="26" Line="11" Column="9" EndLine="11" EndColumn="10" Covered="True" />
+        </Method>
+      </Type>
+    </Namespace>
+    <Namespace Name="Containers.DAL.Dao" CoveredStatements="25" TotalStatements="25" CoveragePercent="100">
+      <Type Name="Containers_MysqlDao" CoveredStatements="25" TotalStatements="25" CoveragePercent="100">
+        <Type Name="&lt;&gt;c" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Method Name="&lt;GetStats&gt;b__3_0(System.Data.DataRow):Containers.Models.StatsModel" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+            <Statement FileIndex="27" Line="48" Column="30" EndLine="54" EndColumn="24" Covered="True" />
+          </Method>
+        </Type>
+        <Method Name=".ctor():System.Void" CoveredStatements="4" TotalStatements="4" CoveragePercent="100">
+          <Statement FileIndex="27" Line="10" Column="9" EndLine="10" EndColumn="37" Covered="True" />
+          <Statement FileIndex="27" Line="11" Column="9" EndLine="11" EndColumn="10" Covered="True" />
+          <Statement FileIndex="27" Line="12" Column="13" EndLine="12" EndColumn="98" Covered="True" />
+          <Statement FileIndex="27" Line="13" Column="9" EndLine="13" EndColumn="10" Covered="True" />
+        </Method>
+        <Method Name="CreateStatistics(Containers.Models.StatsModel):System.Void" CoveredStatements="10" TotalStatements="10" CoveragePercent="100">
+          <Statement FileIndex="27" Line="15" Column="9" EndLine="15" EndColumn="10" Covered="True" />
+          <Statement FileIndex="27" Line="16" Column="13" EndLine="16" EndColumn="101" Covered="True" />
+          <Statement FileIndex="27" Line="17" Column="13" EndLine="17" EndColumn="36" Covered="True" />
+          <Statement FileIndex="27" Line="18" Column="13" EndLine="18" EndColumn="14" Covered="True" />
+          <Statement FileIndex="27" Line="19" Column="17" EndLine="19" EndColumn="105" Covered="True" />
+          <Statement FileIndex="27" Line="20" Column="17" EndLine="20" EndColumn="125" Covered="True" />
+          <Statement FileIndex="27" Line="21" Column="17" EndLine="21" EndColumn="132" Covered="True" />
+          <Statement FileIndex="27" Line="23" Column="17" EndLine="29" EndColumn="20" Covered="True" />
+          <Statement FileIndex="27" Line="30" Column="13" EndLine="30" EndColumn="14" Covered="True" />
+          <Statement FileIndex="27" Line="31" Column="9" EndLine="31" EndColumn="10" Covered="True" />
+        </Method>
+        <Method Name="GetStats():System.Collections.Generic.List&lt;Containers.Models.StatsModel&gt;" CoveredStatements="10" TotalStatements="10" CoveragePercent="100">
+          <Statement FileIndex="27" Line="33" Column="9" EndLine="33" EndColumn="10" Covered="True" />
+          <Statement FileIndex="27" Line="34" Column="13" EndLine="34" EndColumn="101" Covered="True" />
+          <Statement FileIndex="27" Line="36" Column="13" EndLine="42" EndColumn="16" Covered="True" />
+          <Statement FileIndex="27" Line="43" Column="13" EndLine="43" EndColumn="45" Covered="True" />
+          <Statement FileIndex="27" Line="44" Column="13" EndLine="44" EndColumn="50" Covered="True" />
+          <Statement FileIndex="27" Line="45" Column="13" EndLine="45" EndColumn="14" Covered="True" />
+          <Statement FileIndex="27" Line="46" Column="17" EndLine="54" EndColumn="35" Covered="True" />
+          <Statement FileIndex="27" Line="55" Column="13" EndLine="55" EndColumn="14" Covered="True" />
+          <Statement FileIndex="27" Line="56" Column="13" EndLine="56" EndColumn="28" Covered="True" />
+          <Statement FileIndex="27" Line="57" Column="9" EndLine="57" EndColumn="10" Covered="True" />
+        </Method>
+      </Type>
+    </Namespace>
+    <Namespace Name="Containers.Models" CoveredStatements="12" TotalStatements="12" CoveragePercent="100">
+      <Type Name="ContainersModel" CoveredStatements="6" TotalStatements="6" CoveragePercent="100">
+        <Method Name="get_containerPrice():System.Double" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="30" Line="13" Column="40" EndLine="13" EndColumn="44" Covered="True" />
+        </Method>
+        <Method Name="get_name():System.String" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="30" Line="11" Column="30" EndLine="11" EndColumn="34" Covered="True" />
+        </Method>
+        <Method Name="get_transportCost():System.Double" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="30" Line="12" Column="39" EndLine="12" EndColumn="43" Covered="True" />
+        </Method>
+        <Method Name="set_containerPrice(System.Double):System.Void" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="30" Line="13" Column="45" EndLine="13" EndColumn="49" Covered="True" />
+        </Method>
+        <Method Name="set_name(System.String):System.Void" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="30" Line="11" Column="35" EndLine="11" EndColumn="39" Covered="True" />
+        </Method>
+        <Method Name="set_transportCost(System.Double):System.Void" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="30" Line="12" Column="44" EndLine="12" EndColumn="48" Covered="True" />
+        </Method>
+      </Type>
+      <Type Name="StatsModel" CoveredStatements="6" TotalStatements="6" CoveragePercent="100">
+        <Method Name="get_budget_used():System.Double" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="31" Line="7" Column="39" EndLine="7" EndColumn="43" Covered="True" />
+        </Method>
+        <Method Name="get_containers_dispatched():System.Double" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="31" Line="5" Column="47" EndLine="5" EndColumn="51" Covered="True" />
+        </Method>
+        <Method Name="get_containers_not_dispatched():System.Double" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="31" Line="6" Column="51" EndLine="6" EndColumn="55" Covered="True" />
+        </Method>
+        <Method Name="set_budget_used(System.Double):System.Void" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="31" Line="7" Column="44" EndLine="7" EndColumn="48" Covered="True" />
+        </Method>
+        <Method Name="set_containers_dispatched(System.Double):System.Void" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="31" Line="5" Column="52" EndLine="5" EndColumn="56" Covered="True" />
+        </Method>
+        <Method Name="set_containers_not_dispatched(System.Double):System.Void" CoveredStatements="1" TotalStatements="1" CoveragePercent="100">
+          <Statement FileIndex="31" Line="6" Column="56" EndLine="6" EndColumn="60" Covered="True" />
+        </Method>
+      </Type>
+    </Namespace>
+  </Assembly>
+  <Assembly Name="xUnit.ContenedoresRest" CoveredStatements="40" TotalStatements="40" CoveragePercent="100">
+    <Namespace Name="xUnit.ContenedoresRest" CoveredStatements="40" TotalStatements="40" CoveragePercent="100">
+      <Type Name="ContainersTest" CoveredStatements="40" TotalStatements="40" CoveragePercent="100">
+        <Method Name="Containers_GetStats():System.Void" CoveredStatements="4" TotalStatements="4" CoveragePercent="100">
+          <Statement FileIndex="1" Line="149" Column="9" EndLine="149" EndColumn="10" Covered="True" />
+          <Statement FileIndex="1" Line="151" Column="13" EndLine="151" EndColumn="70" Covered="True" />
+          <Statement FileIndex="1" Line="152" Column="13" EndLine="152" EndColumn="70" Covered="True" />
+          <Statement FileIndex="1" Line="154" Column="9" EndLine="154" EndColumn="10" Covered="True" />
+        </Method>
+        <Method Name="Containers_selectContainers_ContainersBudgetCero():System.Void" CoveredStatements="12" TotalStatements="12" CoveragePercent="100">
+          <Statement FileIndex="1" Line="60" Column="9" EndLine="60" EndColumn="10" Covered="True" />
+          <Statement FileIndex="1" Line="61" Column="13" EndLine="61" EndColumn="31" Covered="True" />
+          <Statement FileIndex="1" Line="62" Column="13" EndLine="62" EndColumn="74" Covered="True" />
+          <Statement FileIndex="1" Line="63" Column="13" EndLine="69" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="70" Column="13" EndLine="76" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="77" Column="13" EndLine="83" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="84" Column="13" EndLine="90" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="91" Column="13" EndLine="97" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="98" Column="13" EndLine="98" EndColumn="70" Covered="True" />
+          <Statement FileIndex="1" Line="99" Column="13" EndLine="99" EndColumn="90" Covered="True" />
+          <Statement FileIndex="1" Line="100" Column="13" EndLine="100" EndColumn="58" Covered="True" />
+          <Statement FileIndex="1" Line="101" Column="9" EndLine="101" EndColumn="10" Covered="True" />
+        </Method>
+        <Method Name="Containers_selectContainers_ContainersDespachados():System.Void" CoveredStatements="12" TotalStatements="12" CoveragePercent="100">
+          <Statement FileIndex="1" Line="13" Column="9" EndLine="13" EndColumn="10" Covered="True" />
+          <Statement FileIndex="1" Line="14" Column="13" EndLine="14" EndColumn="37" Covered="True" />
+          <Statement FileIndex="1" Line="15" Column="13" EndLine="15" EndColumn="74" Covered="True" />
+          <Statement FileIndex="1" Line="16" Column="13" EndLine="22" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="23" Column="13" EndLine="29" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="30" Column="13" EndLine="36" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="37" Column="13" EndLine="43" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="44" Column="13" EndLine="50" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="51" Column="13" EndLine="51" EndColumn="70" Covered="True" />
+          <Statement FileIndex="1" Line="52" Column="13" EndLine="52" EndColumn="89" Covered="True" />
+          <Statement FileIndex="1" Line="53" Column="13" EndLine="53" EndColumn="76" Covered="True" />
+          <Statement FileIndex="1" Line="54" Column="9" EndLine="54" EndColumn="10" Covered="True" />
+        </Method>
+        <Method Name="Containers_selectContainers_ContainersTransportCostCero():System.Void" CoveredStatements="12" TotalStatements="12" CoveragePercent="100">
+          <Statement FileIndex="1" Line="104" Column="9" EndLine="104" EndColumn="10" Covered="True" />
+          <Statement FileIndex="1" Line="105" Column="13" EndLine="105" EndColumn="37" Covered="True" />
+          <Statement FileIndex="1" Line="106" Column="13" EndLine="106" EndColumn="74" Covered="True" />
+          <Statement FileIndex="1" Line="107" Column="13" EndLine="113" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="114" Column="13" EndLine="120" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="121" Column="13" EndLine="127" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="128" Column="13" EndLine="134" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="135" Column="13" EndLine="141" EndColumn="16" Covered="True" />
+          <Statement FileIndex="1" Line="142" Column="13" EndLine="142" EndColumn="70" Covered="True" />
+          <Statement FileIndex="1" Line="143" Column="13" EndLine="143" EndColumn="90" Covered="True" />
+          <Statement FileIndex="1" Line="144" Column="13" EndLine="144" EndColumn="88" Covered="True" />
+          <Statement FileIndex="1" Line="145" Column="9" EndLine="145" EndColumn="10" Covered="True" />
+        </Method>
+      </Type>
+    </Namespace>
+  </Assembly>
+</Root>

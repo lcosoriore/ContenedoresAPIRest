@@ -40,7 +40,7 @@
                 CommandType = System.Data.CommandType.StoredProcedure
 
             });
-            List<StatsModel> oReturn = null;
+            List<StatsModel>? oReturn = null;
             if (response.DataTableResult != null)
             {
                 oReturn =

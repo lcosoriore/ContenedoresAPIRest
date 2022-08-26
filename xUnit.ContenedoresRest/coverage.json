@@ -1,0 +1,588 @@
+{
+  "ADO.Rest.dll": {
+    "C:\\ContenedoresAPI\\ADO.Rest\\ADOFactory.cs": {
+      "ADO.Rest.ADOFactory": {
+        "ADO.Rest.Interfaces.IADO ADO.Rest.ADOFactory::GetADOInstance(System.String)": {
+          "Lines": {
+            "6": 1,
+            "7": 1,
+            "13": 1,
+            "17": 1,
+            "18": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\ContenedoresAPI\\ADO.Rest\\MYSQL\\MySqlImplement.cs": {
+      "ADO.Rest.MYSQL.MySqlImplement": {
+        "System.String ADO.Rest.MYSQL.MySqlImplement::get_CurrentConnectionString()": {
+          "Lines": {
+            "14": 3
+          },
+          "Branches": []
+        },
+        "System.Void ADO.Rest.MYSQL.MySqlImplement::SetConnection(System.String)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        },
+        "ADO.Rest.Models.ADOModelResponse ADO.Rest.MYSQL.MySqlImplement::ExecuteQuery(ADO.Rest.Models.ADOModelRequest)": {
+          "Lines": {
+            "27": 2,
+            "28": 2,
+            "31": 2,
+            "34": 2,
+            "36": 2,
+            "38": 2,
+            "39": 2,
+            "41": 2,
+            "42": 1,
+            "43": 1,
+            "44": 3,
+            "45": 3,
+            "46": 3,
+            "47": 4,
+            "48": 1,
+            "50": 2,
+            "53": 2,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "60": 1,
+            "61": 1,
+            "62": 1,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "73": 1,
+            "74": 1,
+            "75": 1,
+            "76": 1,
+            "77": 1,
+            "79": 1,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "88": 0,
+            "90": 0,
+            "92": 2,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "98": 2,
+            "99": 2,
+            "100": 0,
+            "101": 2,
+            "103": 2,
+            "104": 2
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 74,
+              "EndOffset": 76,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 74,
+              "EndOffset": 92,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 95,
+              "EndOffset": 97,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 95,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 53,
+              "Offset": 155,
+              "EndOffset": 181,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 53,
+              "Offset": 155,
+              "EndOffset": 268,
+              "Path": 2,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 155,
+              "EndOffset": 355,
+              "Path": 3,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 53,
+              "Offset": 155,
+              "EndOffset": 419,
+              "Path": 4,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 155,
+              "EndOffset": 485,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 99,
+              "Offset": 510,
+              "EndOffset": 512,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 99,
+              "Offset": 510,
+              "EndOffset": 519,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Data.IDbDataParameter ADO.Rest.MYSQL.MySqlImplement::CreateTypedParameter()": {
+          "Lines": {
+            "107": 0,
+            "108": 0,
+            "109": 0
+          },
+          "Branches": []
+        },
+        "System.Data.IDbDataParameter ADO.Rest.MYSQL.MySqlImplement::CreateTypedParameter(System.String,System.Object)": {
+          "Lines": {
+            "112": 3,
+            "113": 3,
+            "114": 3
+          },
+          "Branches": []
+        },
+        "ADO.Rest.Models.ADOModelRequest ADO.Rest.MYSQL.MySqlImplement::InitDocumentBatchGetRequest(ADO.Rest.Models.ADOModelRequest)": {
+          "Lines": {
+            "118": 0,
+            "119": 0
+          },
+          "Branches": []
+        },
+        "System.Void ADO.Rest.MYSQL.MySqlImplement::.ctor(System.String)": {
+          "Lines": {
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\ContenedoresAPI\\ADO.Rest\\Models\\ADOModelRequest.cs": {
+      "ADO.Rest.Models.ADOModelRequest": {
+        "System.String ADO.Rest.Models.ADOModelRequest::get_CommandText()": {
+          "Lines": {
+            "11": 4
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<System.Data.IDbDataParameter> ADO.Rest.Models.ADOModelRequest::get_Parameters()": {
+          "Lines": {
+            "13": 5
+          },
+          "Branches": []
+        },
+        "System.Data.CommandType ADO.Rest.Models.ADOModelRequest::get_CommandType()": {
+          "Lines": {
+            "15": 4
+          },
+          "Branches": []
+        },
+        "ADO.Rest.Models.enumCommandExecutionType ADO.Rest.Models.ADOModelRequest::get_CommandExecutionType()": {
+          "Lines": {
+            "17": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\ContenedoresAPI\\ADO.Rest\\Models\\ADOModelResponse.cs": {
+      "ADO.Rest.Models.ADOModelResponse": {
+        "System.Int32 ADO.Rest.Models.ADOModelResponse::get_NonQueryResult()": {
+          "Lines": {
+            "11": 2
+          },
+          "Branches": []
+        },
+        "System.Object ADO.Rest.Models.ADOModelResponse::get_ScalarResult()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Data.DataTable ADO.Rest.Models.ADOModelResponse::get_DataTableResult()": {
+          "Lines": {
+            "15": 4
+          },
+          "Branches": []
+        },
+        "System.Data.DataSet ADO.Rest.Models.ADOModelResponse::get_DataSetResult()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Containers.dll": {
+    "C:\\ContenedoresAPI\\Containers\\ContainersManager.cs": {
+      "Containers.ContainersManager": {
+        "System.Collections.Generic.List`1<System.String> Containers.ContainersManager::selectContainers(System.Double,System.Collections.Generic.List`1<Containers.Models.ContainersModel>)": {
+          "Lines": {
+            "10": 1,
+            "11": 1,
+            "13": 1,
+            "14": 13,
+            "15": 5,
+            "16": 5,
+            "17": 3,
+            "18": 3,
+            "19": 3,
+            "20": 3,
+            "21": 3,
+            "22": 3,
+            "24": 2,
+            "25": 2,
+            "26": 2,
+            "27": 5,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1
+          },
+          "Branches": [
+            {
+              "Line": 14,
+              "Offset": 170,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 5
+            },
+            {
+              "Line": 16,
+              "Offset": 65,
+              "EndOffset": 67,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 16,
+              "Offset": 65,
+              "EndOffset": 134,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 14,
+              "Offset": 170,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 32,
+              "Offset": 245,
+              "EndOffset": 247,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 32,
+              "Offset": 245,
+              "EndOffset": 261,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<Containers.Models.StatsModel> Containers.ContainersManager::GetStats()": {
+          "Lines": {
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1
+          },
+          "Branches": []
+        },
+        "System.Void Containers.ContainersManager::.ctor()": {
+          "Lines": {
+            "6": 2,
+            "7": 2,
+            "8": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\ContenedoresAPI\\Containers\\Models\\ContainersModel.cs": {
+      "Containers.Models.ContainersModel": {
+        "System.String Containers.Models.ContainersModel::get_name()": {
+          "Lines": {
+            "11": 8
+          },
+          "Branches": []
+        },
+        "System.Double Containers.Models.ContainersModel::get_transportCost()": {
+          "Lines": {
+            "12": 13
+          },
+          "Branches": []
+        },
+        "System.Double Containers.Models.ContainersModel::get_containerPrice()": {
+          "Lines": {
+            "13": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\ContenedoresAPI\\Containers\\Models\\StatsModel.cs": {
+      "Containers.Models.StatsModel": {
+        "System.Double Containers.Models.StatsModel::get_containers_dispatched()": {
+          "Lines": {
+            "5": 16
+          },
+          "Branches": []
+        },
+        "System.Double Containers.Models.StatsModel::get_containers_not_dispatched()": {
+          "Lines": {
+            "6": 16
+          },
+          "Branches": []
+        },
+        "System.Double Containers.Models.StatsModel::get_budget_used()": {
+          "Lines": {
+            "7": 16
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\ContenedoresAPI\\Containers\\DAL\\ContainersDataController.cs": {
+      "Containers.DAL.ContainersDataController": {
+        "Containers.Interfaces.IContainersData Containers.DAL.ContainersDataController::get_Instance()": {
+          "Lines": {
+            "14": 2,
+            "15": 2,
+            "16": 1,
+            "17": 2,
+            "18": 2
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 15,
+              "Offset": 11,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void Containers.DAL.ContainersDataController::CreateStatistics(Containers.Models.StatsModel)": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Containers.Models.StatsModel> Containers.DAL.ContainersDataController::GetStats()": {
+          "Lines": {
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1
+          },
+          "Branches": []
+        },
+        "System.Void Containers.DAL.ContainersDataController::.ctor()": {
+          "Lines": {
+            "22": 1,
+            "23": 1,
+            "24": 1,
+            "25": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\ContenedoresAPI\\Containers\\DAL\\ContainersDataFactory.cs": {
+      "Containers.DAL.ContainersDataFactory": {
+        "Containers.Interfaces.IContainersData Containers.DAL.ContainersDataFactory::GetDataInstance(System.Boolean)": {
+          "Lines": {
+            "6": 1,
+            "8": 1,
+            "9": 1,
+            "10": 1,
+            "11": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\ContenedoresAPI\\Containers\\DAL\\Dao\\Containers_MysqlDao.cs": {
+      "Containers.DAL.Dao.Containers_MysqlDao": {
+        "System.Void Containers.DAL.Dao.Containers_MysqlDao::CreateStatistics(Containers.Models.StatsModel)": {
+          "Lines": {
+            "15": 1,
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1,
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 13,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 17,
+              "Offset": 13,
+              "EndOffset": 175,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<Containers.Models.StatsModel> Containers.DAL.Dao.Containers_MysqlDao::GetStats()": {
+          "Lines": {
+            "33": 1,
+            "34": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 15,
+            "49": 15,
+            "50": 15,
+            "51": 15,
+            "52": 15,
+            "53": 15,
+            "54": 15,
+            "55": 1,
+            "56": 1,
+            "57": 1
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 65,
+              "EndOffset": 67,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 44,
+              "Offset": 65,
+              "EndOffset": 122,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Containers.DAL.Dao.Containers_MysqlDao::.ctor()": {
+          "Lines": {
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

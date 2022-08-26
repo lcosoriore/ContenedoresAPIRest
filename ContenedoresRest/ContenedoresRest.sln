@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Containers", "..\Containers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnit.ContenedoresRest", "..\xUnit.ContenedoresRest\xUnit.ContenedoresRest.csproj", "{B0A33165-0CBD-470D-AC01-70CF2912E475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.Rest", "..\ADO.Rest\ADO.Rest.csproj", "{E5F7798C-9B11-4467-9D3C-B1EB2EDB2990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO.Rest", "..\ADO.Rest\ADO.Rest.csproj", "{E5F7798C-9B11-4467-9D3C-B1EB2EDB2990}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

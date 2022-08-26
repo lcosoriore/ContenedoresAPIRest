@@ -1,0 +1,12 @@
+C:\ContenedoresAPI\ADO.Rest\bin\Release\net6.0\ADO.Rest.deps.json
+C:\ContenedoresAPI\ADO.Rest\bin\Release\net6.0\ADO.Rest.dll
+C:\ContenedoresAPI\ADO.Rest\bin\Release\net6.0\ADO.Rest.pdb
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\ADO.Rest.csproj.AssemblyReference.cache
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\ADO.Rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\ADO.Rest.AssemblyInfoInputs.cache
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\ADO.Rest.AssemblyInfo.cs
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\ADO.Rest.csproj.CoreCompileInputs.cache
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\ADO.Rest.dll
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\refint\ADO.Rest.dll
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\ADO.Rest.pdb
+C:\ContenedoresAPI\ADO.Rest\obj\Release\net6.0\ref\ADO.Rest.dll
