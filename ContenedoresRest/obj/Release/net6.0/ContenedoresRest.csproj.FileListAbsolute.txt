@@ -48,3 +48,8 @@ C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\refint\ContenedoresRest.d
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\ContenedoresRest.pdb
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\ContenedoresRest.genruntimeconfig.cache
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\ref\ContenedoresRest.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Release\net6.0\xunit.abstractions.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Release\net6.0\xunit.core.dll

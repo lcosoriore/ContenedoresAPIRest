@@ -9,6 +9,9 @@ C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\Google.Protobu
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\K4os.Compression.LZ4.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\K4os.Compression.LZ4.Streams.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\K4os.Hash.xxHash.dll
+C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\MySql.Data.dll
@@ -23,6 +26,8 @@ C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\System.Drawing
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\System.Windows.Extensions.dll
+C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\xunit.abstractions.dll
+C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\xunit.core.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/Containers": {
+    "/api/Containers": {
       "post": {
         "tags": [
           "Containers"
@@ -40,27 +40,26 @@
           }
         ],
         "responses": {
-          "200": {
+          "201": {
             "description": "Success",
             "schema": {
               "type": "string"
             }
           },
-          "404": {
-            "description": "Not Found",
+          "400": {
+            "description": "Bad Request",
             "schema": {
-              "$ref": "#/definitions/ProblemDetails"
+              "type": "string"
             }
           }
         }
       }
     },
-    "/Stats": {
+    "/api/Stats/stats": {
       "get": {
         "tags": [
           "Stats"
         ],
-        "operationId": "stats",
         "produces": [
           "text/plain",
           "application/json",
@@ -70,10 +69,13 @@
           "200": {
             "description": "Success",
             "schema": {
-              "type": "array",
-              "items": {
-                "$ref": "#/definitions/StatsModel"
-              }
+              "type": "string"
+            }
+          },
+          "404": {
+            "description": "Not Found",
+            "schema": {
+              "type": "string"
             }
           }
         }
@@ -92,45 +94,6 @@
           "type": "number"
         },
         "containerPrice": {
-          "format": "double",
-          "type": "number"
-        }
-      }
-    },
-    "ProblemDetails": {
-      "type": "object",
-      "properties": {
-        "type": {
-          "type": "string"
-        },
-        "title": {
-          "type": "string"
-        },
-        "status": {
-          "format": "int32",
-          "type": "integer"
-        },
-        "detail": {
-          "type": "string"
-        },
-        "instance": {
-          "type": "string"
-        }
-      },
-      "additionalProperties": { }
-    },
-    "StatsModel": {
-      "type": "object",
-      "properties": {
-        "containers_dispatched": {
-          "format": "double",
-          "type": "number"
-        },
-        "containers_not_dispatched": {
-          "format": "double",
-          "type": "number"
-        },
-        "budget_used": {
           "format": "double",
           "type": "number"
         }
