@@ -1,14 +1,8 @@
-﻿using ADO.Rest.Interfaces;
-using ADO.Rest.Models;
-using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ADO.Rest.MYSQL
+﻿namespace ADO.Rest.MYSQL
 {
+    using ADO.Rest.Interfaces;
+    using ADO.Rest.Models;
+    using System.Data;
     public class MySqlImplement : IADO
     {
         public string CurrentConnectionString { get; private set; }

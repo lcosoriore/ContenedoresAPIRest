@@ -2,6 +2,6 @@
 {
     public class Constants
     {
-        public const string C_ConnectionName = "AfiliacionesConnection";
+        public const string C_ConnectionName = "ContainersConnection";
     }
 }

@@ -9,6 +9,9 @@ C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Google.Protobuf.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\K4os.Compression.LZ4.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\MySql.Data.dll
@@ -23,6 +26,8 @@ C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\System.Security.Permissions.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\xunit.abstractions.dll
+C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\xunit.core.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
@@ -48,8 +53,3 @@ C:\ContenedoresAPI\ContenedoresRest\obj\Debug\net6.0\refint\ContenedoresRest.dll
 C:\ContenedoresAPI\ContenedoresRest\obj\Debug\net6.0\ContenedoresRest.pdb
 C:\ContenedoresAPI\ContenedoresRest\obj\Debug\net6.0\ContenedoresRest.genruntimeconfig.cache
 C:\ContenedoresAPI\ContenedoresRest\obj\Debug\net6.0\ref\ContenedoresRest.dll
-C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\xunit.abstractions.dll
-C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\xunit.core.dll
-C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\ContenedoresAPI\ContenedoresRest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll

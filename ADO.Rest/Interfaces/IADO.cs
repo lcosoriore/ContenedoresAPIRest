@@ -1,12 +1,6 @@
-﻿using ADO.Rest.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ADO.Rest.Interfaces
+﻿namespace ADO.Rest.Interfaces
 {
+    using ADO.Rest.Models;
     public interface IADO
     {
         string CurrentConnectionString { get; }
